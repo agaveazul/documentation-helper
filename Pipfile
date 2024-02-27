@@ -11,6 +11,8 @@ langchain-community = "*"
 beautifulsoup4 = "*"
 langchain-openai = "*"
 langchain-pinecone = "*"
+streamlit = "*"
+streamlit-chat = "*"
 
 [dev-packages]
 
